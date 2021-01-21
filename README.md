@@ -9,7 +9,9 @@ Thanks for giving the opportunity to continue in the interview process! This was
 - I just put a local server up for deployment. Running `php artisan serve` within the projects directory on your machince will allow you to run the app locally from `<http://127.0.0.1:8000>`
 
 ### Items
-- App is based on a database with one record, Item
+- App is based on a database with one table, Item
+- Item.php defines what the class is, and ItemController handles any interactions between DB and the front end
+- Made with jQuery and Bootstrap
 - Will have the ability to create, edit, view, and delete an item record, in a way that is mostly not terrible
 
 ## Conclusion
