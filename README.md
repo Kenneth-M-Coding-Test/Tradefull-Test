@@ -4,7 +4,7 @@ Thanks for giving the opportunity to continue in the interview process! This was
 
 ### Running the App
 - Clone this repo down, and run `composer install`
-- Project uses MYSQL, so be sure to set your `.env` with your local MySQl setup (can use .env.example as template)
+- Project uses MySQL, so be sure to set your `.env` with your local MySQl setup (can use .env.example as template)
 - Run `php artisan migrate` within project directory to bring up the database
 - I just put a local server up for deployment. Running `php artisan serve` within the projects directory on your machince will allow you to run the app locally from `<http://127.0.0.1:8000>`
 
