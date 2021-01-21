@@ -1,6 +1,6 @@
 ## Kenneth McInturf Coding Test
 
-Thanks for giving the opportunity to continue in the interview process! This was a really fun project, and I am excited to show y'all  my solution
+Thanks for giving the opportunity to continue in the interview process, and I am excited to show you my project.
 
 ### Running the App
 - Clone this repo down, and run `composer install`
